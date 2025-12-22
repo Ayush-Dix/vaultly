@@ -212,14 +212,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Contributors to all open-source packages used
 - Community for inspiration and feedback
 
-## 📞 Contact
-
-**Project Maintainer** - [Your Name](mailto:your.email@example.com)
-
-**Project Link** - [https://github.com/yourusername/vaultly](https://github.com/yourusername/vaultly)
-
----
-
 <div align="center">
 
 **Made with ❤️ using Flutter**
