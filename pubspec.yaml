@@ -68,7 +68,15 @@ dev_dependencies:
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/icon/vaultly_app_icon.jpg"
+  image_path: "assets/icon/vaultly_app_icon.png"
+  # Use adaptive icon settings for Android launchers to avoid default gray
+  # background. The foreground image should have transparency where needed.
+  adaptive_icon_foreground: "assets/icon/vaultly_app_icon.png"
+  # Set a solid background color (change to a different hex if you want
+  # a non-white background). If you prefer a transparent background for
+  # adaptive icons, replace this with a small transparent PNG and set the
+  # path here instead.
+  adaptive_icon_background: "#FFFFFF"
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
